@@ -49,7 +49,7 @@ def main():
     # Number of samples to use per signal
 
     n_secs = int(sys.argv[1])
-    freq   = 3012
+    freq   = 4000
     cutoff = freq * n_secs
 
     # Location of raw signals

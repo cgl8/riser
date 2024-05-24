@@ -74,6 +74,8 @@ print(f"Number correct: {n_correct}")
 print(f"Test set: \n Accuracy: {acc:>0.1f}%\n")
 
 '''
+Total number of samples: 106628
+
 True positives: 52977
 False positives: 349
 True negatives: 52965

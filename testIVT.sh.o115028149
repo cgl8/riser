@@ -1,0 +1,23 @@
+Using cuda device
+Shape of negative tensor: 	torch.Size([53314, 16000])
+Shape of positive tensor: 	torch.Size([53314, 16000])
+Shape of total dataset: torch.Size([106628, 16000])
+Shape of total labels: torch.Size([106628])
+Test set: 
+ Accuracy: 99.4%
+
+
+======================================================================================
+                  Resource Usage on 2024-05-05 22:34:06:
+   Job Id:             115028149.gadi-pbs
+   Project:            bp00
+   Exit Status:        0
+   Service Units:      0.32
+   NCPUs Requested:    12                     NCPUs Used: 12              
+                                           CPU Time Used: 00:00:28        
+   Memory Requested:   50.0GB                Memory Used: 12.96GB         
+   NGPUs Requested:    1                 GPU Utilisation: 53%             
+                                         GPU Memory Used: 588.0MB         
+   Walltime requested: 05:00:00            Walltime Used: 00:00:32        
+   JobFS requested:    100.0MB                JobFS used: 0B              
+======================================================================================
